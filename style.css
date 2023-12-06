@@ -1,0 +1,172 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+html,
+body{
+  margin:0;
+  padding:0;
+}
+header{
+  position:relative;
+  top:0;
+  display:flex;
+  align-items: center;
+  justify-content:space-between;
+  width:100%;
+  height:15vh;
+  padding: 0 25px;
+  font-size:35px;
+  box-shadow: 0px 0px 2px 0px rgba(255,0,0.6);
+  color:white;
+  background-color:black;
+  
+}
+.hero{
+  height:30vh;
+  width:100%;
+  backgroud-color:#000000;
+  padding: 100px 25px;
+}
+.hero h1{
+  background-color: black;
+  color:white;
+}
+.form{
+  padding-left:25px;
+  padding-top: 30px;
+  background-color:#00FFBC;
+  height:150vh;
+  width:100%;
+}
+.service{
+  height:300vh;
+  width:100%;
+  background-color: #00FFBC;
+  text-align: center;
+  padding-top: 70px;
+}
+.service .box{
+  background-color: white;
+  height:34vh;
+  width:87%;
+  margin-top: 20px;
+  margin-left: 25px;
+  border-radius: 2px;
+}
+.service .box h3{
+  position:absolute;
+  
+}
+.enthu{
+  height: 120vh;
+  width:100%;
+  text-align: center;
+  padding-top: 60px;
+  background-color: whitesmoke;
+}
+.enthu h2{
+  width:78%;
+  margin:auto;
+}
+.enthu h5{
+  width:70%;
+  margin:auto;
+  margin-top: 30px;
+}
+.enthu p{
+  margin-top:30px;
+}
+.enthu #btn3{
+  width:80%;
+  height: 45px;
+  margin-top: 40px;
+  border-radius:25px;
+  border:none;
+  background-color: #00FFBE;
+}
+.work{
+  height:120vh;
+  width:100%;
+  text-align: center;
+  padding-top:30px;
+}
+.why{
+  height:220vh;
+  width:100%;
+  background-color: #00FFBE;
+  text-align:center;
+  padding-top: 70px;
+}
+.why h2{
+  margin-bottom: 20px;
+}
+.why .box{
+  background-color: white;
+  height:34vh;
+  width:87%;
+  margin-top: 20px;
+  margin-left: 25px;
+  border-radius: 2px;
+}
+.test{
+  height:150vh;
+  width:100%;
+}
+
+.cta{
+  height:50vh;
+  width:100%;
+  text-align: crnter;
+}
+.cta h2{
+  margin-top:50px;
+  width:60%;
+  margin:auto;
+}
+.cta #btn4{
+  width:30%;
+  height: 45px;
+  margin-top: 40px;
+  border-radius:25px;
+  border:none;
+  background-color: #00FFBE;
+  margin-left:50%;
+  transform:translateX(-50%)
+}
+.map{
+  text-align: center;
+  height:70vh;
+  width:100%;
+}
+footer {
+  height:150vh;
+  background-color: #333;
+  color: white;
+  padding: 10px 25px;
+  bottom: 0;
+  width: 100%;
+  margin-bottom: 0;
+  padding-bottom:0;
+}
+footer h2{
+  margin-top:50px;
+}
+footer p{
+  padding-top:10px;
+}
+footer .mn{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  
+}
+footer .mn ul{
+  list-style:none;
+}
+footer.con{
+  padding:100px 25px;
+}
+footer h6{
+  margin-bottom: 0;
+}
